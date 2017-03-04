@@ -8,7 +8,7 @@ import org.springframework.ui.ModelMap;
 @Controller
 @RequestMapping("/hello")
 public class HelloController{
- 
+   //test
    @RequestMapping(method = RequestMethod.GET)
    public String printHello(ModelMap model) {
       model.addAttribute("message", "Hello Spring MVC Framework!");
