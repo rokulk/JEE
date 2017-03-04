@@ -2,5 +2,5 @@ package com.test;
 
 public class WebService {
 
-	//web service
+	//web service test
 }
