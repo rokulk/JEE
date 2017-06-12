@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class RoshangaSpringBootApplication {
 
-	public static void main(String[] args123) {
+	public static void main(String[] args1223) {
 		SpringApplication.run(RoshangaSpringBootApplication.class, args123);
 	}
 }
